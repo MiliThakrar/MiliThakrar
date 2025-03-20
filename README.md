@@ -30,15 +30,15 @@
    - Mapping fire incident frequencies across Toronto neighborhoods.
    - Analyzing response times and visualizing fire station coverage areas.
 
+### Loan Approval Classification: 💼
+
+- Building a machine learning model to predict loan approval outcomes.
+- Implementing various classification algorithms and comparing their performance.
+
 ### NLP Project (In Progress): 🗣️
 
 - Exploring natural language processing techniques for text classification and sentiment analysis.
 - Implementing advanced NLP models to extract meaningful information from unstructured text data.
-
-### Loan Approval Classification (In Progress): 💼
-
-- Building a machine learning model to predict loan approval outcomes.
-- Implementing various classification algorithms and comparing their performance.
 
 ## My Technical Skills ⚡
 
