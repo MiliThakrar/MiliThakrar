@@ -11,7 +11,7 @@
 
 ## Current Projects 🚀
 
-### Book Recommendation System: 📚
+### Book Recommendation System (In Progress): 📚
 
 - Developing a personalized book recommendation engine using collaborative filtering and content-based approaches.
 - Implementing machine learning algorithms to predict user preferences based on reading history and book metadata.
