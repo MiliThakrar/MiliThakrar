@@ -35,7 +35,7 @@
 - Building a machine learning model to predict loan approval outcomes.
 - Implementing various classification algorithms and comparing their performance.
 
-### NLP Project (In Progress): 🗣️
+### NLP Project: 🗣️
 
 - Exploring natural language processing techniques for text classification and sentiment analysis.
 - Implementing advanced NLP models to extract meaningful information from unstructured text data.
