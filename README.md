@@ -11,10 +11,11 @@
 
 ## Current Projects 🚀
 
-### Book Recommendation System (In Progress): 📚
+### Book Recommendation System: 📚
 
 - Developing a personalized book recommendation engine using collaborative filtering and content-based approaches.
 - Implementing machine learning algorithms to predict user preferences based on reading history and book metadata.
+- [Try the Streamlit app here](https://book-recommendations-r8wirca.streamlit.app/)
 
 ### Tableau Visualizations: 📊
 
